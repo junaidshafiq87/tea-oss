@@ -1,0 +1,4 @@
+Create a new directory for your project (e.g., batch-renamer).
+Initialize a Git repository using git init.
+Create a virtual environment (optional but recommended) to isolate project dependencies.
+Install the required library: pip install os
